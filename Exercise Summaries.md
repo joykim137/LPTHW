@@ -12,3 +12,8 @@ I read Exercise 0 in LPTHW. I set up my computer to run Python. I ran Python in 
 ## LPTHW : Exercise 1
 ### Summary
 I created the file ex1.py. I edited ex1.py to make it print messages. I ran ex1.py in Terminal.
+
+# 2017-02-03
+## LPTHW : Exercise 2
+### Summary
+I created ex2.p. I learned how to write comments using octothorpes. I checked ex2.py for mistakes and fixed the mistakes.
