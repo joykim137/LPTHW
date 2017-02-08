@@ -13,7 +13,17 @@ I read Exercise 0 in LPTHW. I set up my computer to run Python. I ran Python in 
 ### Summary
 I created the file ex1.py. I edited ex1.py to make it print messages. I ran ex1.py in Terminal.
 
-# 2017-02-03
+# 2017-02-06
 ## LPTHW : Exercise 2
 ### Summary
 I created ex2.p. I learned how to write comments using octothorpes. I checked ex2.py for mistakes and fixed the mistakes.
+
+# 2017-02-07
+## LPTHW : Exercise 3
+### Summary
+I learned names of symbols often used. I created ex3.py. I learned how to use Python as a calculator.
+
+# 2017-02-08
+## LPTHW : Exercise 4
+### Summary
+I created ex4.py. I learned how to use variables in Python. I learned about an underscore character.
