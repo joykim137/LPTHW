@@ -31,3 +31,4 @@ I created ex4.py. I learned how to use variables in Python. I learned about an u
 # 2017-02-09
 ## LPTHW : Exercise 5
 ### Summary
+I created ex5.py. I learned how to use the the % sign in Python. I learned what a string is.
