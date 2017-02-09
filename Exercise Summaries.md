@@ -27,3 +27,7 @@ I learned names of symbols often used. I created ex3.py. I learned how to use Py
 ## LPTHW : Exercise 4
 ### Summary
 I created ex4.py. I learned how to use variables in Python. I learned about an underscore character.
+
+# 2017-02-09
+## LPTHW : Exercise 5
+### Summary
