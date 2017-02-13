@@ -36,4 +36,4 @@ I created ex5.py. I learned how to use the the % sign in Python. I learned what 
 # 2017-02-13
 ## LPTHW : Exercise 6
 ### Summary
-I created ex6.py. I learned what strings are. I used strings with variables.
+I created ex6.py. I learned what strings are. I used strings with variables in Python.
