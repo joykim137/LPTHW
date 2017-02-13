@@ -32,3 +32,8 @@ I created ex4.py. I learned how to use variables in Python. I learned about an u
 ## LPTHW : Exercise 5
 ### Summary
 I created ex5.py. I learned how to use the the % sign in Python. I learned what a string is.
+
+# 2017-02-13
+## LPTHW : Exercise 6
+### Summary
+I created ex6.py. I learned what strings are. I used strings with variables.
