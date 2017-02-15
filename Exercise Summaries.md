@@ -37,3 +37,8 @@ I created ex5.py. I learned how to use the the % sign in Python. I learned what 
 ## LPTHW : Exercise 6
 ### Summary
 I created ex6.py. I learned what strings are. I used strings with variables in Python.
+
+# 2017-02-13
+## LPTHW : Exercise 7
+### Summary
+I created ex7.py. I printed "May had a little lamb" lyrics. I learned what "end'#'" command does.
