@@ -41,4 +41,9 @@ I created ex6.py. I learned what strings are. I used strings with variables in P
 # 2017-02-15
 ## LPTHW : Exercise 7
 ### Summary
-I created ex7.py. I printed "May had a little lamb" lyrics. I learned what "end'#'" command does.
+I created ex7.py. I printed "Mary had a little lamb" lyrics. I learned what "end'#'" command does.
+
+# 2017-02-20
+## LPTHW : Exercise 8
+### Summary
+I created ex8.py. I used "formatters". I used a more complicated formatting of string.
