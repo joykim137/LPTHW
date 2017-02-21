@@ -47,3 +47,8 @@ I created ex7.py. I printed "Mary had a little lamb" lyrics. I learned what "end
 ## LPTHW : Exercise 8
 ### Summary
 I created ex8.py. I used "formatters". I used a more complicated formatting of string.
+
+# 2017-02-21
+## LPTHW : Exercise 9
+### Summary
+I created ex9.py. I learned how to use """. I learned how to use \n.
