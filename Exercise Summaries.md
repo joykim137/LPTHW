@@ -52,3 +52,8 @@ I created ex8.py. I used "formatters". I used a more complicated formatting of s
 ## LPTHW : Exercise 9
 ### Summary
 I created ex9.py. I learned how to use """. I learned how to use \n.
+
+# 2017-02-22
+## LPTHW : Exercise 10
+### Summary
+I created ex10.py. I learned what a "\t" does. I learned all escape sequences that Python supports.
