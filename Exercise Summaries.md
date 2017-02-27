@@ -57,3 +57,13 @@ I created ex9.py. I learned how to use """. I learned how to use \n.
 ## LPTHW : Exercise 10
 ### Summary
 I created ex10.py. I learned what a "\t" does. I learned all escape sequences that Python supports.
+
+# 2017-02-23
+## LPTHW : Exercise 11
+### Summary
+I created ex11.py. I learned what "raw_input" does. I put in intput myself when running Python.
+
+# 2017-02-27
+## LPTHW : Exercise 12
+### Summary
+I created ex12.py. I used "raw_input." I used parenthesis with "raw_input."
