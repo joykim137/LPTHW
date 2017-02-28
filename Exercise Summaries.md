@@ -67,3 +67,8 @@ I created ex11.py. I learned what "raw_input" does. I put in intput myself when 
 ## LPTHW : Exercise 12
 ### Summary
 I created ex12.py. I used "raw_input." I used parenthesis with "raw_input."
+
+# 2017-02-28
+## LPTHW : Exercise 13
+### Summary
+I created ex13.py. I learned about "argument variables." I ran Python using arguments.
