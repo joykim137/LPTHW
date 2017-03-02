@@ -74,6 +74,6 @@ I created ex12.py. I used "raw_input." I used parenthesis with "raw_input."
 I created ex13.py. I learned about "argument variables." I ran Python using arguments.
 
 # 2017-03-01
-## LPTHW : Exercise 13
+## LPTHW : Exercise 14
 ### Summary
 I created ex14.py. I learned about "prompt." I ran Python with input.
