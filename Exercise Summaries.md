@@ -73,7 +73,17 @@ I created ex12.py. I used "raw_input." I used parenthesis with "raw_input."
 ### Summary
 I created ex13.py. I learned about "argument variables." I ran Python using arguments.
 
-# 2017-03-01
+# 2017-03-02
 ## LPTHW : Exercise 14
 ### Summary
 I created ex14.py. I learned about "prompt." I ran Python with input.
+
+# 2017-03-06
+## LPTHW : Exercise 15
+### Summary
+I created ex15.py. I used open function to open the file that I input the name of. I opened ex15_sample.txt by raw_input.
+
+# 2017-03-07
+## LPTHW : Exercise 16
+### Summary
+I created ex16.py. I learned a few commands like read and close. I used "truncate" to replace the contents in a text file.
