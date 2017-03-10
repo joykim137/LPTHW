@@ -88,7 +88,12 @@ I created ex15.py. I used open function to open the file that I input the name o
 ### Summary
 I created ex16.py. I learned a few commands like read and close. I used "truncate" to replace the contents in a text file.
 
-# 2017-03-07
+# 2017-03-08
 ## LPTHW : Exercise 17
 ### Summary
 I created ex17.py. I learned and used the command "exists." I used "echo" and "cat" argument when running Python.
+
+# 2017-03-09
+## LPTHW : Exercise 18
+### Summary
+I created ex18.py. I learned about functions. I used variations of print commands.
