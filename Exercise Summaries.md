@@ -97,3 +97,8 @@ I created ex17.py. I learned and used the command "exists." I used "echo" and "c
 ## LPTHW : Exercise 18
 ### Summary
 I created ex18.py. I learned about functions. I used variations of print commands.
+
+# 2017-03-10
+## LPTHW : Exercise 19
+### Summary
+I created ex19.py. I used function to see different outcome. I gave different values to the function "cheese_and_crackers."
