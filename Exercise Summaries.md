@@ -102,3 +102,8 @@ I created ex18.py. I learned about functions. I used variations of print command
 ## LPTHW : Exercise 19
 ### Summary
 I created ex19.py. I used function to see different outcome. I gave different values to the function "cheese_and_crackers."
+
+# 2017-03-13
+## LPTHW : Exercise 20
+### Summary
+I created ex20.py. I used "rewind" command. I used ran Python with test.txt.
