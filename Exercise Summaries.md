@@ -107,3 +107,8 @@ I created ex19.py. I used function to see different outcome. I gave different va
 ## LPTHW : Exercise 20
 ### Summary
 I created ex20.py. I used "rewind" command. I used ran Python with test.txt.
+
+# 2017-03-14
+## LPTHW : Exercise 21
+### Summary
+I created ex21.py. I calculated numbers using functions. I used add, subtract, multiply, and divide.
