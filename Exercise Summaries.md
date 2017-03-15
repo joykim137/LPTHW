@@ -38,6 +38,9 @@ I created ex5.py. I learned how to use the the % sign in Python. I learned what 
 ### Summary
 I created ex6.py. I learned what strings are. I used strings with variables in Python.
 
+# 2017-02-13
+## LPTHW : Exercise 6
+### Summary
 # 2017-02-15
 ## LPTHW : Exercise 7
 ### Summary
@@ -112,3 +115,8 @@ I created ex20.py. I used "rewind" command. I used ran Python with test.txt.
 ## LPTHW : Exercise 21
 ### Summary
 I created ex21.py. I calculated numbers using functions. I used add, subtract, multiply, and divide.
+
+# 2017-03-15
+## LPTHW : Exercise 22
+### Summary
+I created ex22.py. I wrote down a table of things I used in other Python exercises. I studied the table.
