@@ -120,3 +120,9 @@ I created ex21.py. I calculated numbers using functions. I used add, subtract, m
 ## LPTHW : Exercise 22
 ### Summary
 I created ex22.py. I wrote down a table of things I used in other Python exercises. I studied the table.
+
+# 2017-03-21
+## LPTHW : Exercise 24
+### Summary
+I created ex24.py. I used many things that I used in previous exercises. I calculated, used functions, variables, backslashes and others.
+
