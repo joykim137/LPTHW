@@ -1,0 +1,28 @@
+print : prints the exact same words that are in the same line in quotations
+# : octothorpe;
++ : plus; adds value
+- : minus; subtracts value
+/ : slash; divides value
+* : asterisk; multiplies value
+% : percent; puts variable in formatter
+< : less-than
+> : greater-than
+<= : less-than-equal
+>= : greater-than-equal
+variable : store object
+\ : backslash; encodes difficult-to-type character into a string
+\n : makes the text that comes after itself print on a new line
+\t : puts indent
+\\ : backslash
+raw_input : variable is set to the input that is put in
+from sys import argv : import thing named argv into the current name context
+prompt : prompts a question
+open : opens the file
+read : reads the contents of the file
+truncate : empties the file
+write : writes the text that is in the parentheses
+close : closes the file
+len : return the length of an object
+def : define
+rewind : rewind the subject
+""" : print the all text in the quotations in whole
