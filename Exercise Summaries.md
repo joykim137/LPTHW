@@ -126,3 +126,7 @@ I created ex22.py. I wrote down a table of things I used in other Python exercis
 ### Summary
 I created ex24.py. I used many things that I used in previous exercises. I calculated, used functions, variables, backslashes and others.
 
+# 2017-03-22
+## LPTHW : Exercise 25
+### Summary
+I created ex25.py. I wrote code that would sort a sentence. I ran Python code directly through Terminal.
