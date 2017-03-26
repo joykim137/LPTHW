@@ -130,3 +130,8 @@ I created ex24.py. I used many things that I used in previous exercises. I calcu
 ## LPTHW : Exercise 25
 ### Summary
 I created ex25.py. I wrote code that would sort a sentence. I ran Python code directly through Terminal.
+
+# 2017-03-26
+## LPTHW : Exercise 26
+### Summary
+
