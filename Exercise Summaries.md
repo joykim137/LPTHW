@@ -135,3 +135,19 @@ I created ex25.py. I wrote code that would sort a sentence. I ran Python code di
 ## LPTHW : Exercise 26
 ### Summary
 
+
+# 2017-03-27
+## LPTHW : Exercise 27
+### Summary
+I learned about the logic signs. I read the truth tables. I memorized what I learned.
+
+# 2017-03-27
+## LPTHW : Exercise 28
+### Summary
+I was given 20 logic problems to solve. I solved the problems. I checked the answers using Python.
+
+# 2017-03-27
+## LPTHW : Exercise 29
+### Summary
+I created ex29.py. I wrote code that had if statements. I ran the code and got output according to the value of variables.
+
