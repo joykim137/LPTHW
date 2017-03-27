@@ -151,3 +151,7 @@ I was given 20 logic problems to solve. I solved the problems. I checked the ans
 ### Summary
 I created ex29.py. I wrote code that had if statements. I ran the code and got output according to the value of variables.
 
+# 2017-03-27
+## LPTHW : Exercise 30
+### Summary
+I created ex30.py. I used if-statements like "if, elif, else." I ran the code and got the output I was supposed to get.
