@@ -38,9 +38,6 @@ I created ex5.py. I learned how to use the the % sign in Python. I learned what 
 ### Summary
 I created ex6.py. I learned what strings are. I used strings with variables in Python.
 
-# 2017-02-13
-## LPTHW : Exercise 6
-### Summary
 # 2017-02-15
 ## LPTHW : Exercise 7
 ### Summary
@@ -134,7 +131,7 @@ I created ex25.py. I wrote code that would sort a sentence. I ran Python code di
 # 2017-03-26
 ## LPTHW : Exercise 26
 ### Summary
-
+I copied code with errors into ex26.py. I ran the code and checked for mistakes. I corrected the code errors.
 
 # 2017-03-27
 ## LPTHW : Exercise 27
@@ -155,3 +152,22 @@ I created ex29.py. I wrote code that had if statements. I ran the code and got o
 ## LPTHW : Exercise 30
 ### Summary
 I created ex30.py. I used if-statements like "if, elif, else." I ran the code and got the output I was supposed to get.
+
+# 2017-03-27
+## LPTHW : Exercise 31
+### Summary
+I created ex30.py. I used "if, elif, else" in the code and made the output to be determined by raw input. I made a little adventrue game with the code and played it.
+
+# 2017-03-28
+## LPTHW : Exercise 32
+### Summary
+I created ex31.py. I used for-loop and made lists. I ran ex31.py and printed various lists as the output.
+
+# 2017-03-28
+## LPTHW : Exercise 33
+### Summary
+I created ex33.py. I learned about a while-loop. I used it in code to see how it functions.
+
+# 2017-03-28
+## LPTHW : Exercise 23
+### Summary
