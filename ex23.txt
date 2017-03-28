@@ -1,0 +1,2 @@
+The code calculates the GCF of 18 and 204 and prints the result.
+https://github.com/joeyajames/Python/blob/master/gcf.py
