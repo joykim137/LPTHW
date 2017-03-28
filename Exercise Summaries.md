@@ -167,3 +167,7 @@ I created ex31.py. I used for-loop and made lists. I ran ex31.py and printed var
 ## LPTHW : Exercise 33
 ### Summary
 I created ex33.py. I learned about a while-loop. I used it in code to see how it functions.
+
+# 2017-03-28
+## LPTHW : Exercise 23
+### Summary
