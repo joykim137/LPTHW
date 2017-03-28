@@ -131,7 +131,7 @@ I created ex25.py. I wrote code that would sort a sentence. I ran Python code di
 # 2017-03-26
 ## LPTHW : Exercise 26
 ### Summary
-
+I copied code with errors into ex26.py. I ran the code and checked for mistakes. I corrected the code errors.
 
 # 2017-03-27
 ## LPTHW : Exercise 27
