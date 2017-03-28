@@ -171,3 +171,4 @@ I created ex33.py. I learned about a while-loop. I used it in code to see how it
 # 2017-03-28
 ## LPTHW : Exercise 23
 ### Summary
+I searched for a Python file in github.com. I chose a random .py file that computed the GCF of two numbers. I created ex23.txt and explained what the .py file I found did.
