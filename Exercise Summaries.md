@@ -168,7 +168,7 @@ I created ex31.py. I used for-loop and made lists. I ran ex31.py and printed var
 ### Summary
 I created ex33.py. I learned about a while-loop. I used it in code to see how it functions.
 
-# 2017-03-28
+# 2017-03-29
 ## LPTHW : Exercise 23
 ### Summary
 I searched for a Python file in github.com. I chose a random .py file that computed the GCF of two numbers. I created ex23.txt and explained what the .py file I found did.
